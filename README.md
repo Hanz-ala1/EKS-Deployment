@@ -12,3 +12,5 @@ Please note you need these CLIs installed:
 - AWS
 
 Recomommed you use https://chocolatey.org/ if you are using windows
+
+Remember to delete the cluster.
