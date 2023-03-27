@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Set your name of cluster and the region you want below.
-CLUSTER_NAME="test4"
+CLUSTER_NAME="test1"
 REGION="us-east-1"
 echo $CLUSTER_NAME
 echo $REGION
