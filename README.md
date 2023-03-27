@@ -6,9 +6,9 @@ Simple EKS-Deployment automated script.
 
 Please note you need these CLIs installed:
 
-Eksctl CLI
-Kubectl CLI 
-Helm CLI
-AWS CLI
+- Eksctl
+- Kubectl  
+- Helm 
+- AWS
 
 Recomommed you use https://chocolatey.org/ if you are using windows
