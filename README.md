@@ -13,4 +13,4 @@ Please note you need these CLIs installed:
 
 Recomommed you use https://chocolatey.org/ if you are using windows
 
-Remember to delete the cluster.
+Remember to delete the cluster. <a href="https://medium.com/@hanz-ala/effortlessly-deploy-an-application-load-balancer-on-aws-eks-d4f5df7e90ca"> Check out the full guide on my Medium Post</a>
